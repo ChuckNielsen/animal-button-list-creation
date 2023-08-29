@@ -1,3 +1,8 @@
+After downloading repo open in VS Code and type in the CMD to launch on device webapp **Unpublished**
+This is a simpole program that prints a random image of 5 animals on button click with the ability to click image and make miniture heart grow bigger on each click 
+
+This is an intro app. Focusing on building blocks for UI's, Setter Commands and "onClick Listeners" one line slug option, the ability to recall a single function if multiple scripts are needed to be executed for JS and React - 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
