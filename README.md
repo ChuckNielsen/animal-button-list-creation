@@ -2,9 +2,15 @@ Download CLI
 
 Open in VS Code
 
-type in the CMD to launch on device webapp **Unpublished**
+Open terminal in VSC and type CMD to launch on device webapp **Unpublished**
 
-      npm run
+      npm start
+
+This is assuming you already ran (in correct parent directory):
+
+      npx create-react-app 'XXX'
+
+You can also install electron for an on-device app publishing solution that runs everywhere even the App Stores.
       
 This is a simpole program that prints a random image of 5 animals on button click with the ability to click image and make miniture heart grow bigger on each click 
 
