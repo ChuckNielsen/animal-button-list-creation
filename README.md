@@ -1,4 +1,4 @@
-Download CLI
+Download HTTPS copy in CMD and unzip.
 
 Open in VS Code
 
