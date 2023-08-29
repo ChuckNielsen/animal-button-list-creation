@@ -4,7 +4,7 @@ Open in VS Code
 
 type in the CMD to launch on device webapp **Unpublished**
 
-      *****npm run*****
+      *****npm run
       
 This is a simpole program that prints a random image of 5 animals on button click with the ability to click image and make miniture heart grow bigger on each click 
 
